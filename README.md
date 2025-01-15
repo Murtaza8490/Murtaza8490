@@ -31,7 +31,7 @@ Hi, I'm G. M. Lakho, a Data Scientist and Machine Learning Engineer with a stron
 - PMP Certification
 
 ## Contact Information
-- **Email**: gmlakho840@gmail.com
+- **Email**: gmlakho8490@gmail.com
   WhatsApp +923103525856
 
 
