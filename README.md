@@ -1,14 +1,14 @@
 - # G. M. Lakho
 
 ## About Me
-Hi, I'm G. M. Lakho, a Data Scientist and Machine Learning Engineer with a strong background in Project Management. With a Master's in Engineering and PMP certification, I specialize in developing and deploying machine learning models to solve real-world problems.
+Hi, I'm G. M. Lakho, a Data Scientist and Machine Learning Engineer with a strong background in Project Management, Reinforcement Learning and Swarm Inteligence is my speciality. With a Master's in Engineering and MBA in Project Management with PMP certification, I specialize in developing and deploying machine learning models to solve real-world problems.
 
 ## Skills
-- **Machine Learning**: Supervised and Unsupervised Learning, Deep Learning, Model Optimization.
+- **Machine Learning**: Supervised and Unsupervised Learning, Deep Learning, Model Optimization, Swarm Inteligence, Reinforcement Learning.
 - **Data Analysis**: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization.
 - **Project Management**: PMP Certified, Agile/Scrum Methodologies, Project Planning, and Execution.
 - **Programming Languages**: Python, SQL.
-- **Tools and Frameworks**: PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Docker, Kubernetes.
+- **Tools and Frameworks**: PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Docker, Kubernetes,keras, Reinforcement Learning and Swarm Inteligence is my speciality.
 
 ## Projects
 
